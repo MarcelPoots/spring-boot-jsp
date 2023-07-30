@@ -1,0 +1,1 @@
+A quick guide or demo application to show how you can serve a jsp file from Springboot.
